@@ -1,1 +1,0 @@
-Mes Médias — version finale sécurisée. Ouvre index.html dans ton navigateur.
